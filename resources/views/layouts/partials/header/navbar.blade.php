@@ -220,16 +220,13 @@
                                             <a href="{{ route('second', ['product', 'te']) }}">TE</a>
                                         </li>
                                         <li>
-                                            <a href="{{ route('second', ['product', 'schaffner']) }}">SCHAFFNER</a>
+                                            <a href="{{ route('second', ['product', 'schaffner']) }}">Schaffner</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('second', ['product', 'ome-motors']) }}">OME Motors</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('second', ['product', 'elmeasure']) }}">Elmeasure</a>
-                                        </li>
-                                        <li>
-                                            <a href="{{ route('second', ['product', 'elesol']) }}">Elesol</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('second', ['product', 'hilkar']) }}">Hilkar</a>
@@ -550,13 +547,13 @@
                         <a href="{{ route('second', ['product', 'te']) }}">TE</a>
                     </li>
                     <li>
+                        <a href="{{ route('second', ['product', 'schaffner']) }}">Schaffner</a>
+                    </li>
+                    <li>
                         <a href="{{ route('second', ['product', 'ome-motors']) }}">OME Motors</a>
                     </li>
                     <li>
                         <a href="{{ route('second', ['product', 'elmeasure']) }}">Elmeasure</a>
-                    </li>
-                    <li>
-                        <a href="{{ route('second', ['product', 'elesol']) }}">Elesol</a>
                     </li>
                     <li>
                         <a href="{{ route('second', ['product', 'hilkar']) }}">Hilkar</a>
